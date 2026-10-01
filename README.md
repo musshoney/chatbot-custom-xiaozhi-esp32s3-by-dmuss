@@ -6,7 +6,8 @@ custom firmware xiaozhi chatbot untuk esp32s3/lcd st7789 (240x320) dengan ciri-c
 
 
 
-<img width="257" height="583" alt="esp32s3 pin conf2" src="https://github.com/user-attachments/assets/060aea6c-bf0e-4c35-b8d3-f166a119dd5d" />
+<img width="291" height="611" alt="esp32s3 pin conf" src="https://github.com/user-attachments/assets/7953c176-6b60-49e5-a561-7a63be196d7c" />
+
 
 Panggilan kata kunci lagu di chatbot mendengar/listening...
 <img width="503" height="229" alt="mainkan muzik" src="https://github.com/user-attachments/assets/4f35294c-3338-4edb-8bda-e99690056dcd" />
